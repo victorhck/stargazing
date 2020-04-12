@@ -1,4 +1,7 @@
 # stargazing
+
+![starchat_in_red](starchart_in_red.png)
+
 ___ES___
 
 Pequeño script en Bash para ayudar al astrónomo aficionado a mantener "sus ojos" en la oscuridad. Se basa en una utilidad llamada xcalib, un pequeña utilidad de calibración de monitor para X.org.
