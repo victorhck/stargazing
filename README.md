@@ -12,7 +12,7 @@ No funciona en Wayland.
 * bash
 
 ## Funcionamiento
-* Descarga el script: wget https://raw.githubusercontent.com/victorhck/stargazing/master/stargazing
+* Descarga el script: wget https://raw.githubusercontent.com/alanfoss/stargazing/master/stargazing
 * Dale permisos de ejecución: chmod +x stargazing
 * Ejecuta el siguiente comando para ver las opciones: ./stargazing *
 
@@ -31,9 +31,12 @@ The xcalib application works only with X11, so it is not functional on Wayland s
 * bash
 
 ### Install
-* Download the script: wget https://raw.githubusercontent.com/victorhck/stargazing/master/stargazing
+* Download the script: wget https://raw.githubusercontent.com/alanfoss/stargazing/master/stargazing
 * Execution permissions: chmod +x stargazing
-* Run the following commando to run the script and see the options available: ./stargazing *
+* Run the following command to run the script and see the options available: ./stargazing *
 
 ### More info
 * https://opensource.com/article/20/4/linux-astronomy
+
+### Tested
+* April 7, 2023 - Fedora Linux 37 (Workstation Edition), GNOME Version 43.4
